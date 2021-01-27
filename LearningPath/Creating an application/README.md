@@ -10,3 +10,5 @@ The code:
   if __name__ == "__main__":
   
 It does a check if the code we are executing is primary or is being inherited as secondary code towards a main code.
+
+After that we import the widget module from the uix package that represents the user experience. A Widget is the main base of the content of our application, almost everything inherits from this class.
